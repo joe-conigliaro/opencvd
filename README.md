@@ -26,4 +26,4 @@ I would like to explore alterate methods & substrates, for example to see if it 
 ## Resources
 I will add to this list as i find useful papers
  * https://www.researchgate.net/publication/231103160_Diamond_growth_by_chemical_vapour_deposition
- * https://www.youtube.com/watch?v=9OEz_e9C4KM&t=413s (check out the sputter gun construction)
+ * https://www.youtube.com/watch?v=9OEz_e9C4KM (check out the sputter gun construction)
