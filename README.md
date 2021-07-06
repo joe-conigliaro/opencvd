@@ -9,7 +9,7 @@ The CVD Process in general is quite well documented in many papers, however cauc
 We will need a to construct a working reactor
 * Vacuume chamber / Pump
 * Quarts Viewports
-* Gas inlets / Valves
+* Regulators / Gas inlets / Valves
 * Magnetron & Waveguides
 * More stuff
 
@@ -26,4 +26,6 @@ I would like to explore alterate methods & substrates, for example to see if it 
 ## Resources
 I will add to this list as i find useful papers
  * https://www.researchgate.net/publication/231103160_Diamond_growth_by_chemical_vapour_deposition
+ * https://www.researchgate.net/publication/324037907_Microwave_Plasma_CVD_Reactors_for_Growing_Diamond_in_the_Laboratory
+ * https://www.researchgate.net/publication/309166692_Microwave_Plasma_CVD_Grown_Single_Crystal_Diamonds_-_A_Review
  * https://www.youtube.com/watch?v=9OEz_e9C4KM (check out the sputter gun construction)
