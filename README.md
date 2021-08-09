@@ -9,7 +9,7 @@ The CVD Process in general is quite well documented in many papers, however cauc
 We will need a to construct a working reactor
 * Vacuume chamber / Pump
 * Quarts Viewports
-* Regulators / Gas inlets / Valves
+* Regulators / Gas inlets / Valves / programmable flow regulators (expensive)
 * Magnetron & Waveguides
 * More stuff
 
