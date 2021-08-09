@@ -2,7 +2,7 @@
 Open Source Chemical Vapour Deposition Reactor Shematics &amp; Control Software
 
 The aim of this project is to grow diamonds using CVD method.
-The CVD Process in general is quite well documented in many papers, however cauculating the dimensions of the chamber (dimensions are apparently critical) and tuning the chamber (vaccum pressure, amount of gas, plasma temperature etc) is where most of the difficulty lies.
+The CVD Process in general is quite well documented in many papers, however cauculating the dimensions of the chamber (dimensions are apparently critical) and tuning the chamber (vaccum pressure, amount of gas / flow rates, plasma temperature etc) is where most of the difficulty lies.
 
 ## Overview
 #### Reactor Construction
