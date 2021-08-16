@@ -2,12 +2,12 @@
 Open Source Chemical Vapour Deposition Reactor Shematics &amp; Control Software
 
 The aim of this project is to grow diamonds using CVD method.
-The CVD Process in general is quite well documented in many papers, however calculating the dimensions of the chamber (critical) and tuning the chamber (vaccum pressure, amount of gas / flow rates, plasma temperature etc) is where most of the difficulty lies.
+The CVD Process in general is quite well documented in many papers, however calculating the dimensions of the chamber (critical) and tuning the chamber (vacuum pressure, amount of gas / flow rates, plasma temperature etc) is where most of the difficulty lies.
 
 ## Overview
 #### Reactor Construction
 We will need a to construct a working reactor
-* Vacuume chamber / Pump (staged Mehanical & turbo molecular)
+* Vacuum chamber / Pump (staged Mehanical & turbo molecular)
 * Quarts Viewports
 * Programmable flow regulators (expensive) / Gas Connections / Valves etc
 * Magnetron (inc PSU) & Waveguides
@@ -16,7 +16,7 @@ We will need a to construct a working reactor
 #### Management Software
 We will need software to control all aspects of the reactor
 * gas injection flow rate, pressure, & timing (methane/hydrogen) 
-* vacuume pressue (control of the vacuume pump(s))
+* vacuum pressue (control of the vacuum pump(s))
 * power supply to the magnetron (control the plasma temperature)
 
 Seed diamond slices are normally used, and the new diamond will be grown (deposited) on top of this starting slice.
